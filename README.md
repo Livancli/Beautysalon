@@ -1,5 +1,6 @@
-# BeautyInstitute.
+![WORK03](https://github.com/Livancli/Beautysalon/assets/66133816/fbcc32f6-0fad-4a5b-ac05-65cbdeeb8f80)
 
+# BeautyInstitute.
 Bem-vindo ao site do Instituto de Beleza! Este é um modelo de site simples e elegante para um instituto de beleza, dedicado a realçar a beleza e a saúde dos cabelos femininos. Quer você seja proprietário de um salão de beleza ou profissional de beleza, este modelo oferece um design limpo e moderno para mostrar seus serviços e criar uma forte presença online.
 
 ## Introdução
